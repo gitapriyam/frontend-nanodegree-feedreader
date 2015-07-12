@@ -4,10 +4,10 @@
 The feedreader.js contains the following tests written in Jasmine:
 -----------------------------------------------------------------
 
-	allFeed Object
+	**allFeed Object**
 	--------------
 	1. Verify allFeeds object is defined and it's length is greater than 0.
-		__Result : Passed__
+		Result : Passed
     2. Loop through each feed in the allFeeds object and ensure it has a 
 		URL defined & URL is not empty.
 		Result : Passed
